@@ -1,4 +1,6 @@
 jupyter
 rasterio
 rasterstats
+geopandas
+numpy
 git+git://github.com/brazil-data-cube/stac.py@b-0.8.0#egg=stac
